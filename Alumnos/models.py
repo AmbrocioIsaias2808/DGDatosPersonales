@@ -9,8 +9,8 @@ class DatosPersonales(models.Model):
     Telefono=models.CharField(max_length=10)
     Email= models.EmailField()
     Domicilio=models.TextField()
-    
-	def alta(self):
+
+    def alta(self):
         self.save()
 
     def __str__(self):
