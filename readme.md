@@ -10,10 +10,11 @@ https://www.youtube.com/watch?v=OYRiLZamAKU&t=412s
 
 **Capturas de pantalla:**
 
-![image-20200207092538170](\READMEFILES\image-20200207092538170.png)
-
-![image-20200207092646794](\READMEFILES\image-20200207092646794.png)
-
-![image-20200207092750628](\READMEFILES\image-20200207092750628.png)
-
-![image-20200207092907604](\READMEFILES\image-20200207092907604.png)
+<p align=center><img src="READMEFILES\ (1).png" alt=" (1)" style="width:75%;" /></p>
+<br>
+<p align=center><img src="READMEFILES\ (2).png" alt=" (1)" style="width:75%;" /></p>
+<br>
+<p align=center><img src="READMEFILES\ (3).png" alt=" (1)" style="width:75%;" /></p>
+<br>
+<p align=center><img src="READMEFILES\ (4).png" alt=" (1)" style="width:75%;" /></p>
+<br>
